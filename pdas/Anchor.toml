@@ -1,0 +1,14 @@
+[features]
+seeds = false
+[programs.localnet]
+pdas = "6T67UQdvMRmWPL3yufhPKbeRHcoqjWR5wNdh3TR6pLPc"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/nakhim.chea/Desktop/solana/wallet0.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

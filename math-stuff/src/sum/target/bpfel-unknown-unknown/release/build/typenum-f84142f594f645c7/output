@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/nakhim.chea/RustProjects/Rust_Tutorials/math-stuff/src/sum/target/bpfel-unknown-unknown/release/build/typenum-f84142f594f645c7/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/nakhim.chea/RustProjects/Rust_Tutorials/math-stuff/src/sum/target/bpfel-unknown-unknown/release/build/typenum-f84142f594f645c7/out/op.rs
